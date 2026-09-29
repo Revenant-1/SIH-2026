@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local secrets and runtime configuration
+.env
+src/app/config/auth_config.json
+backend/generate_dataset.py
+backend/pyproject.toml
+backend/qwen_rag_finetune.jsonl

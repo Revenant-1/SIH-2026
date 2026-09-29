@@ -1,0 +1,21 @@
+# Ignore the virtual environment directory
+.venv/
+.env
+__pycache__/
+*.pyc
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSSharedFileList
+# Editor settings
+.vscode/
+.idea/
+plan/
+CLAUDE.md
+# Local AI Models
+backend/models/
+models/
+*.gguf
+plan/
+CLAUDE.md
+memory/
