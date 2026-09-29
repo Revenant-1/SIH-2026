@@ -1,0 +1,28 @@
+{
+ "format_version": 1,
+ "files": {
+  ".gitattributes": {
+   "size": 1519,
+   "blob_id": "a6344aac8c09253b3b630fb776ae94478aa0275b"
+  },
+  "README.md": {
+   "size": 369,
+   "blob_id": "f8583fa7b7f4f2ed824ab127ba865064436252b3"
+  },
+  "config.json": {
+   "size": 388,
+   "blob_id": "651da74ad8c9e161dc86a0f958d833cc9d905728"
+  },
+  "en_IN-dataset=spicor-english-base=ljspeech-epochs=1089.onnx": {
+   "size": 63516050,
+   "blob_id": "d0bdaa0c3cee1428a0afceba1d3d34aaace265a4",
+   "lfs_sha256": "e19debae94b70ecc9d22603820373c4dc9bfceb4de8675e1138d2072fca11494",
+   "lfs_size": 63516050,
+   "xet_hash": "00d849bb13fac5f7bcf9f9c41149cd682af82a37609d9180b2bae51f68076084"
+  },
+  "en_IN-dataset=spicor-english-base=ljspeech-epochs=1089.onnx.json": {
+   "size": 4858,
+   "blob_id": "7bd2741affb530038f03f90658e4460e86bdc4e5"
+  }
+ }
+}
